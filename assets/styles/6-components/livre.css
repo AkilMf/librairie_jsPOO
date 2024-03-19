@@ -1,0 +1,16 @@
+/* COMPONENT - JEU */
+
+
+.livre {
+    cursor: pointer;
+    display: flex;
+    height: 20vw;
+}
+
+.livre__image {
+    object-fit: cover;
+    width: 60%;
+    display: flex;
+    align-items: center;
+
+}
